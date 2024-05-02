@@ -2,7 +2,7 @@
 
 **Group Members:** Alex Mcdonald, Aaron Semones, Alex Ludwigson, Yufan Qian, Gabo Sambo
 
-#Introduction
+**Introduction**
 
 Malicious emails, such as phishing attacks or spam emails, are becoming increasingly prevalent. In this project we use 4 models (Transformer, Bert, Gpt2, and Logistic Regression) to try and compare how these models perform in spam email and phishing URL detection
 
