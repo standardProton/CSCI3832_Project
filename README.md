@@ -8,9 +8,9 @@ Malicious emails, such as phishing attacks or spam emails, are becoming increasi
 
 Links
 
-Spam Dataset: Link
+Spam Dataset: https://www.kaggle.com/datasets/meruvulikith/190k-spam-ham-email-dataset-for-classification/data
 
-Phishing URLs Dataset: Link
+Phishing URLs Dataset: https://www.kaggle.com/datasets/hammadjavaid/phishing-url-dataset-for-nlp-based-classification
 
 Spam trained transformer: https://drive.google.com/file/d/1EJVmrpsFpFKZ6Pan-uDlldhvePwwqCGu/view?usp=drive_link
 
