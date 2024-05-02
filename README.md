@@ -1,4 +1,4 @@
-#CSCI 3832 README
+# CSCI 3832 README 
 
 **Group Members:** Alex Mcdonald, Aaron Semones, Alex Ludwigson, Yufan Qian, Gabo Sambo
 
@@ -6,7 +6,7 @@
 
 Malicious emails, such as phishing attacks or spam emails, are becoming increasingly prevalent. In this project we use 4 models (Transformer, Bert, Gpt2, and Logistic Regression) to try and compare how these models perform in spam email and phishing URL detection
 
-#Links
+# Links
 
 Spam Dataset: https://www.kaggle.com/datasets/meruvulikith/190k-spam-ham-email-dataset-for-classification/data
 
@@ -21,7 +21,7 @@ Checkpoint of Bert model for spam:
 https://drive.google.com/drive/folders/1FlyQnDYppXTEJqlmxvEVr1wqwsiZfHQf?usp=sharing
 
 
-#Instructions
+# Instructions
 
 1. Our project uses 2 datasets, both are sourced from Kaggle. To recreate our results, start with the data_stats.ipynb file.
 
@@ -41,7 +41,7 @@ https://drive.google.com/drive/folders/1FlyQnDYppXTEJqlmxvEVr1wqwsiZfHQf?usp=sha
 
 From there, it should have everything it needs to run the other notebook files. 
 
-Statement of Contributions
+# Statement of Contributions
 
 **Alex McDonald:** 
 
