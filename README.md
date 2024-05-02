@@ -14,14 +14,23 @@ https://drive.google.com/drive/folders/1FlyQnDYppXTEJqlmxvEVr1wqwsiZfHQf?usp=sha
 
 
 Instructions
-Our project uses 2 datasets, both are sourced from Kaggle. To recreate our results, start with the data_stats.ipynb file.
-Pip install torch, transformers, pandas, numpy, nltk, tqdm, seaborn, and scikit-learn.
-Create new directories titled “./datasets/SpamHam” and “./datasets/PhishingURLs”
-In the data_stats.ipynb file, download the csv files from the 2 Kaggle links and put them in their respective directories.
-Run each cell in the data_stats.ipynb notebook sequentially. This should create a train & test split on the spam dataset, and correct the format for the URLs csv.
-If code loading datasets fails to run, change the relative pathing from “./REL_PATH_TO_FILE” to “../REL_PATH_TO_FILE” or vice versa
-Create a directory named “./trained_models” and download the spam.pt, url.pt, and bert model from the links above (Must be logged into CU account). Place each inside./trained_models
-Follow any further instructions in the markdown cells of each file
+
+1. Our project uses 2 datasets, both are sourced from Kaggle. To recreate our results, start with the data_stats.ipynb file.
+
+2. Pip install torch, transformers, pandas, numpy, nltk, tqdm, seaborn, and scikit-learn.
+
+3. Create new directories titled “./datasets/SpamHam” and “./datasets/PhishingURLs”
+
+4. In the data_stats.ipynb file, download the csv files from the 2 Kaggle links and put them in their respective directories.
+
+5. Run each cell in the data_stats.ipynb notebook sequentially. This should create a train & test split on the spam dataset, and correct the format for the URLs csv.
+
+6. If code loading datasets fails to run, change the relative pathing from “./REL_PATH_TO_FILE” to “../REL_PATH_TO_FILE” or vice versa
+
+7. Create a directory named “./trained_models” and download the spam.pt, url.pt, and bert model from the links above (Must be logged into CU account). Place each inside./trained_models
+
+8. Follow any further instructions in the markdown cells of each file
+
 From there, it should have everything it needs to run the other notebook files. 
 
 Statement of Contributions
